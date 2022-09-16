@@ -6,6 +6,7 @@
 }
 
 ul {
+  /* retira os sinais da lista li */
   list-style: none;
 }
 
