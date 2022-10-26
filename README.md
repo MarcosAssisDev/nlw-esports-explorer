@@ -1,4 +1,21 @@
-# nlw-esport
-BootCamp - Explorer - RocketSeat
+# NLW - eSport 
+> Trilha Explore
 
-Meu primeiro projeto aplicado ao GitHub, treinamento para aperfeiçoar minhas técnincas em HTML, CSS 
+![preview](./.github/preview.png)
+
+Projeto construido do evento Next Level Week da Rockeseat.
+
+[🔗Clique aqui para acessar](https://marcosassisdev.github.io/nlw-esports-explorer/)
+
+
+##  😁 Tecnologias 
+
+- HTML
+- CSS
+- Git e Github
+
+##  Contato 📩
+
+ma.viniassi@gmail.com 
+
+ 
