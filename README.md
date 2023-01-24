@@ -1,18 +1,18 @@
-# NLW - eSport 
-> Trilha Explore
+# Desafios 
+> Trilha DIO
 
-![preview](./.github/preview.png)
+<!-- ![preview](./.github/preview.png) -->
 
-Projeto construido do evento Next Level Week da Rockeseat.
+Projeto construido do eventos e aulas Digital Innovation One.
 
-[🔗Clique aqui para acessar](https://marcosassisdev.github.io/nlw-esports-explorer/)
+<!-- [🔗Clique aqui para acessar](https://marcosassisdev.github.io/nlw-esports-explorer/) -->
 
 
 ##  😁 Tecnologias 
 
+- Git e Github
 - HTML
 - CSS
-- Git e Github
 
 ##  Contato 📩
 
